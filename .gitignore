@@ -1,0 +1,10 @@
+# Godot 4 editor cache and imports (regenerated on open)
+.godot/
+*.tmp
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Exported builds
+build/
